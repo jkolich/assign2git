@@ -3,6 +3,6 @@ Justin Kolich
 
 First comment
 
-This is a change on newbranch
-
 Testbranch change
+
+This is a change on newbranch
