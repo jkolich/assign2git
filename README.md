@@ -3,7 +3,4 @@ Justin Kolich
 
 First comment
 
-Testbranch change
-
-
-This is a change on newbranch
+Testbranch changeThis is a change on newbranch
